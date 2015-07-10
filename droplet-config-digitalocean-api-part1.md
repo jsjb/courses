@@ -4,7 +4,7 @@ Category: Tutorial
 
 
 **THIS IS A TEST**
-**WORRY NOW**
+**WORRY LATER**
 
 
 **Welcome to a three part tutorial on DigitalOcean, Salt-Cloud, and NGINX. This tutorial covers the creation of a DigitalOcean server (called a ‘droplet’), the installation and configuration of Salt Cloud and Salt Master, and the deployment of an NGINX web server on a Salt Minion.**
